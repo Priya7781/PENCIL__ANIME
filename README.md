@@ -1,2 +1,2 @@
 # PENCIL__ANIME
-this is pencil animation using html and javascript
+this is pencil animation using html and css
